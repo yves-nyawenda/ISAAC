@@ -1,0 +1,15 @@
+h1{
+	border: 2PX DOTTED;
+	border-color: yellow;
+	padding: 40;
+	margin-right: 100PX;
+	margin-bottom: 30PX;
+}
+a{
+	border: 2px solid;
+	border-color: greenyellow;
+	background-color: yellow;
+}
+body{
+	background-color: greenyellow;
+}
